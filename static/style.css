@@ -13,3 +13,18 @@ body {
 ul {
 	list-style: none;
 }
+li {
+	line-height: 1.8;
+}
+a,
+a:visited {
+	color: dodgerblue;
+}
+blockquote {
+	color: #444;
+}
+em {
+	font-style: normal;
+	font-weight: 900;
+	color: black;
+}
