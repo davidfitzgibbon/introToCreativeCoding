@@ -13,6 +13,8 @@
 	import SVG2 from '$lib/slides/SVG2.svelte';
 	import Cadbury from '$lib/slides/Cadbury.svelte';
 	import Demo from '$lib/slides/Demo.svelte';
+	import Links from '$lib/slides/Links.svelte';
+	import Thanks from '$lib/slides/Thanks.svelte';
 
 	import { current, max } from '$lib/stores/current';
 
@@ -31,6 +33,8 @@
 		SVG2,
 		Cadbury,
 		Demo,
+		Links,
+		Thanks,
 	];
 
 	max.set(slides.length - 1);
