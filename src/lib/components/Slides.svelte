@@ -12,6 +12,7 @@
 	import CSS2 from '$lib/slides/CSS2.svelte';
 	import SVG2 from '$lib/slides/SVG2.svelte';
 	import Cadbury from '$lib/slides/Cadbury.svelte';
+	import Formula1 from '$lib/slides/Formula1.svelte';
 	import Demo from '$lib/slides/Demo.svelte';
 	import Links from '$lib/slides/Links.svelte';
 	import Thanks from '$lib/slides/Thanks.svelte';
@@ -32,6 +33,7 @@
 		CSS2,
 		SVG2,
 		Cadbury,
+		Formula1,
 		Demo,
 		Links,
 		Thanks,
